@@ -1,4 +1,7 @@
-{ \
-name\: \bin-lifecycle-v1\, \status\: \planning\, \manus_done\: false, \devin_done\: false, \gpt_notes\: \Initial
-structure
-ready\ }
+{
+  "name": "bin-lifecycle-v1",
+  "status": "testing",
+  "manus_done": true,
+  "devin_done": true,
+  "gpt_notes": "v1.1 by Devin delivered, ready for manual testing and feedback. Bin lifecycle implemented, with role-based permissions and driver warnings."
+}
